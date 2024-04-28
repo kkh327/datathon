@@ -11,3 +11,5 @@ Please read the technical report every logical step ois there listed in the righ
 * EDA.ipynb
 * Sectors_Trends.ipynb
 * Stock Data_analysis.ipynb
+
+**!! PLEASE DOWNLOAD THE JUPYTER NOTEBOOKS GITHUB PREVIEW DOES NOT VISUALIZE OUR DIAGRAMS **
